@@ -5,7 +5,12 @@ their name contains `scrcpy`.**
 
 # scrcpy (v5.0.1)
 
-<img src="app/data/scrcpy.svg" width="128" height="128" alt="scrcpy" align="right" />
+> **Personal Archive:** This repository is maintained by **DmZcoder**.
+> The original project is developed by Genymobile and its contributors.
+> This is an independent archive, not the official upstream repository.
+
+
+<img src="assets/screenpy-logo.png" width="128" height="128" alt="ScreenPy" align="right" />
 
 _pronounced "**scr**een **c**o**py**"_
 
@@ -210,7 +215,7 @@ You can also use:
 
 ## Donate
 
-I'm [@rom1v](https://github.com/rom1v), the author and maintainer of _scrcpy_.
+Original author and maintainer: **Romain Vimont**.
 
 If you appreciate this application, you can [support my open source
 work][donate]:
