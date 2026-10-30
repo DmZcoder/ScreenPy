@@ -24,3 +24,10 @@ See the `LICENSE` file for the complete license text.
 
 This repository is an independent archive and is not the official
 upstream repository.
+
+## Archive Maintenance
+
+DmZcoder maintains this personal archive, including its repository
+branding and archive-specific documentation. Original upstream
+contributors and commit history remain credited to their respective
+authors.
